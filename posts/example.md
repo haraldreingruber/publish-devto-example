@@ -1,12 +1,11 @@
 ---
 title: Example article title
-published: true
+published: false
 description: A simple test article
 tags: 'productivity, beginners, test'
 cover_image: assets/cat.jpg
 canonical_url: null
 id: 540934
-date: '2020-12-12T19:17:17Z'
 ---
 # Hello world!
 
