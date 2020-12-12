@@ -7,7 +7,7 @@ cover_image: assets/cat.jpg
 canonical_url: null
 id: 295998
 ---
-Hello world!
+# Hello world!
 
 Some random text with a [link](https://code.visualstudio.com).
 
