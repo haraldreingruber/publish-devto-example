@@ -2,7 +2,7 @@
   "name": "publish-devto-template",
   "version": "1.0.0",
   "description": "Dummy repo for testing",
-  "repository": "sinedied/publish-devto-template",
+  "repository": "haraldreingruber/publish-devto-example",
   "private": true,
   "keywords": [
     "dev.to",
